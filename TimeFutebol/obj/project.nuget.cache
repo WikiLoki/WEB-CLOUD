@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+3sD3/Kafc312++hFbTgJg3fPW+amXmCvp2MaKQ3Vcl8NMl438lhsdn36UgJA8n9pnRZcnXcmXguZRsYRmLlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peper\\Desktop\\JOB 2º BIMESTRE\\TimeFutebol-master\\TimeFutebol\\TimeFutebol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peper\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
